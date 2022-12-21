@@ -1,6 +1,6 @@
-# Awesome Reasoning in Large Language Models
+# Reasoning in Large Language Models
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/jeffhj/LM-reasoning) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
@@ -8,7 +8,7 @@ This repository contains a collection of papers and resources on ***Reasoning in
 
 For more details, please refer to [Towards Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2212.10403)
 
->Feel free to let me know the missing papers (issue or pull request)
+>Feel free to let me know the missing papers (issue or pull request).
 
 
 
@@ -58,7 +58,33 @@ Hao Fu, Hao Peng, Tushar Shot
 
 ### Fully Supervised Finetuning
 
-Please refer to [our survey](https://arxiv.org/abs/2212.10403)
+> We mainly focus on techniques that are applicable to improving or eliciting "reasoning" in *large* language models like GPT-3 (175B)
+
+> Papers in this paradigm vary a lot and are usually based on *small* models trained on specific datasets. We list several papers here for reference (that is, the list is not complete). Please refer to [our survey](https://arxiv.org/abs/2212.10403) for some discussion.
+
+#### [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](https://arxiv.org/abs/1906.02361)	*6 Jun 2019*
+
+Nazneen Fatema Rajani, Bryan McCann, Caiming Xiong, Richard Socher
+
+#### [Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge](https://arxiv.org/abs/2006.06609)	*11 Jun 2020*
+
+Alon Talmor, Oyvind Tafjord, Peter Clark, Yoav Goldberg, Jonathan Berant
+
+#### [Measuring Mathematical Problem Solving With the MATH Dataset](https://arxiv.org/abs/2103.03874)	*5 Mar 2021*
+
+Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, Jacob Steinhardt
+
+#### [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/abs/2112.00114)	*30 Nov 2021*
+
+Maxwell Nye, Anders Johan Andreassen, Guy Gur-Ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, Augustus Odena
+
+#### [FaiRR: Faithful and Robust Deductive Reasoning over Natural Language](https://arxiv.org/abs/2203.10261)	*19 Mar 2022*
+
+Soumya Sanyal, Harman Singh, Xiang Ren
+
+#### ......
+
+
 
 ### Prompting and In-Context Learning
 
@@ -239,6 +265,3 @@ Laura Ruis, Akbir Khan, Stella Biderman, Sara Hooker, Tim Rocktäschel, Edward G
 #### [ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning](https://arxiv.org/abs/2212.07919)	*15 Dec 2022*
 
 Olga Golovneva, Moya Chen, Spencer Poff, Martin Corredor, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz
-
-
-
