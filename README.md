@@ -238,6 +238,8 @@ Jie Huang, Hanyin Shao, Kevin Chen-Chuan Chang
 
 #### [Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)](https://arxiv.org/abs/2206.10498)	*21 Jun 2022*
 
+Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, Subbarao Kambhampati
+
 #### [Exploring Length Generalization in Large Language Models](https://arxiv.org/abs/2207.04901)	*11 Jul 2022*
 
 Cem Anil, Yuhuai Wu, Anders Andreassen, Aitor Lewkowycz, Vedant Misra, Vinay Ramasesh, Ambrose Slone, Guy Gur-Ari, Ethan Dyer, Behnam Neyshabur
