@@ -52,6 +52,10 @@ David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gon
 
 Hao Fu, Hao Peng, Tushar Shot
 
+#### [Reasoning with Language Model Prompting: A Survey](https://arxiv.org/abs/2212.09597)	 *19 Dec 2022*
+
+Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen
+
 
 
 ## Technique
