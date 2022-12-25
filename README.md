@@ -271,3 +271,18 @@ Laura Ruis, Akbir Khan, Stella Biderman, Sara Hooker, Tim Rocktäschel, Edward G
 #### [ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning](https://arxiv.org/abs/2212.07919)	*15 Dec 2022*
 
 Olga Golovneva, Moya Chen, Spencer Poff, Martin Corredor, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz
+
+
+
+## Citation
+
+If you find this repo useful, please kindly cite our survey:
+
+```
+@article{huang2022towards,
+  title={Towards Reasoning in Large Language Models: A Survey},
+  author={Huang, Jie and Chang, Kevin Chen-Chuan},
+  journal={arXiv preprint arXiv:2212.10403},
+  year={2022}
+}
+```
