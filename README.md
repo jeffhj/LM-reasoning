@@ -202,6 +202,10 @@ Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei
 
 #### Reasoning-Enhanced Training and Prompting
 
+#### [Reasoning Like Program Executors](https://arxiv.org/abs/2201.11473)	*27 Jan 2022*
+
+Xinyu Pi, Qian Liu, Bei Chen, Morteza Ziyadi, Zeqi Lin, Qiang Fu, Yan Gao, Jian-Guang Lou, Weizhu Chen
+
 #### [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/abs/2206.14858)	*29 Jun 2022*
 
 Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra
