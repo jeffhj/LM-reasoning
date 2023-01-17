@@ -118,6 +118,13 @@ Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vos
 
 Wenhu Chen
 
+#### [Language Models of Code are Few-Shot Commonsense Learners](https://arxiv.org/abs/2210.07128) *13 Oct 2022*
+
+Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig
+
+#### [PaL: Program-Aided Language Model](https://arxiv.org/abs/2211.10435) *18 Nov 2022*
+Luyu Gao*, Aman Madaan*, Shuyan Zhou*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig
+
 #### Rationale Engineering
 
 #### [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)	*27 Oct 2021*
