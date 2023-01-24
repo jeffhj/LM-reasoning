@@ -9,10 +9,12 @@ This repository contains a collection of papers and resources on ***Reasoning in
 For more details, please refer to [Towards Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2212.10403)
 
 >Feel free to let me know the missing papers (issue or pull request).
+>
+>You are also welcome to comment on [this twitter](https://twitter.com/jefffhj/status/1605386161303740417)
 
 
 
-Author: [Jie Huang](https://jeffhj.github.io/) @UIUC
+Contributor: [Jie Huang](https://jeffhj.github.io/) @UIUC
 
 Thank [Kevin Chen-Chuan Chang](https://cs.illinois.edu/about/people/faculty/kcchang) @UIUC, [Jason Wei](https://www.jasonwei.net/) @Google Brain, [Denny Zhou](https://dennyzhou.github.io/) @Google Brain for insightful discussions and suggestions.
 
@@ -55,6 +57,14 @@ Hao Fu, Hao Peng, Tushar Shot
 #### [Reasoning with Language Model Prompting: A Survey](https://arxiv.org/abs/2212.09597)	 *19 Dec 2022*
 
 Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen
+
+#### [A Survey of Deep Learning for Mathematical Reasoning](https://arxiv.org/abs/2212.10535)	*20 Dec 2022*
+
+Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang
+
+#### [A Survey for In-context Learning](https://arxiv.org/abs/2301.00234)	*31 Dec 2022*
+
+Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui
 
 
 
@@ -126,6 +136,14 @@ Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig
 
 Luyu Gao*, Aman Madaan*, Shuyan Zhou*, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig
 
+#### [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/abs/2211.12588)	*22 Nov 2022*
+
+Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen
+
+#### [Rethinking with Retrieval: Faithful Large Language Model Inference](https://arxiv.org/abs/2301.00303)	*31 Dec 2022*
+
+Hangfeng He, Hongming Zhang, Dan Roth
+
 #### Rationale Engineering
 
 #### [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)	*27 Oct 2021*
@@ -152,6 +170,10 @@ Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola
 
 Hattie Zhou, Azade Nova, Hugo Larochelle, Aaron Courville, Behnam Neyshabur, Hanie Sedghi
 
+#### [Large Language Models are reasoners with Self-Verification](https://arxiv.org/abs/2212.09561)	*19 Dec 2022*
+
+Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao
+
 #### Problem Decomposition
 
 #### [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)	*21 May 2022*
@@ -165,6 +187,10 @@ Andrew Drozdov, Nathanael Schärli, Ekin Akyürek, Nathan Scales, Xinying Song, 
 #### [Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://arxiv.org/abs/2210.02406)	*5 Oct 2022*
 
 Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter Clark, Ashish Sabharwal
+
+#### [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350)	*7 Oct 2022*
+
+Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis
 
 #### [Successive Prompting for Decomposing Complex Questions](https://arxiv.org/abs/2212.04092)	*8 Dec 2022*
 
@@ -204,6 +230,10 @@ Kumar Shridhar, Alessandro Stolfo, Mrinmaya Sachan
 
 Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei Severyn
 
+#### [LAMBADA: Backward Chaining for Automated Reasoning in Natural Language](https://arxiv.org/abs/2212.13894)	*20 Dec 2022*
+
+Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran
+
 
 
 ### Hybrid Method
@@ -225,6 +255,14 @@ Cem Anil, Yuhuai Wu, Anders Andreassen, Aitor Lewkowycz, Vedant Misra, Vinay Ram
 #### [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)	*20 Oct 2022*
 
 Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei
+
+#### [Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085)	*16 Nov 2022*
+
+Ross Taylor, Marcin Kardas, Guillem Cucurull, Thomas Scialom, Anthony Hartshorn, Elvis Saravia, Andrew Poulton, Viktor Kerkez, Robert Stojnic
+
+#### [ALERT: Adapting Language Models to Reasoning Tasks](https://arxiv.org/abs/2212.08286)	*16 Dec 2022*
+
+Ping Yu, Tianlu Wang, Olga Golovneva, Badr Alkhamissy, Gargi Ghosh, Mona Diab, Asli Celikyilmaz
 
 #### Bootstrapping and Self-Improving
 
@@ -283,6 +321,10 @@ Laura Ruis, Akbir Khan, Stella Biderman, Sara Hooker, Tim Rocktäschel, Edward G
 #### [ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning](https://arxiv.org/abs/2212.07919)	*15 Dec 2022*
 
 Olga Golovneva, Moya Chen, Spencer Poff, Martin Corredor, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz
+
+#### [Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters](https://arxiv.org/abs/2212.10001)	*20 Dec 2022*
+
+Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun
 
 
 
