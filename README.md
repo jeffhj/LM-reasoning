@@ -9,8 +9,6 @@ This repository contains a collection of papers and resources on ***Reasoning in
 For more details, please refer to [Towards Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2212.10403)
 
 >Feel free to let me know the missing papers (issue or pull request).
->
->You are also welcome to comment on [this twitter](https://twitter.com/jefffhj/status/1605386161303740417)
 
 
 
@@ -52,7 +50,7 @@ David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gon
 
 #### [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)	 *11 Dec 2022*
 
-Hao Fu, Hao Peng, Tushar Shot
+Yao Fu, Hao Peng, Tushar Shot
 
 #### [Reasoning with Language Model Prompting: A Survey](https://arxiv.org/abs/2212.09597)	 *19 Dec 2022*
 
