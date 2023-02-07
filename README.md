@@ -194,9 +194,10 @@ Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis
 
 Dheeru Dua, Shivanshu Gupta, Sameer Singh, Matt Gardner
 
-#### [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/abs/2301.13808)	*1 Jan 2022*
+#### [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/abs/2301.13808)	*31 Jan 2023*
 
 Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li
+
 
 
 #### Others
