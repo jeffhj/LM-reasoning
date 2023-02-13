@@ -274,6 +274,10 @@ Ping Yu, Tianlu Wang, Olga Golovneva, Badr Alkhamissy, Gargi Ghosh, Mona Diab, A
 
 Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman
 
+#### [Language Models Can Teach Themselves to Program Better](https://arxiv.org/abs/2207.14502)	*29 Jul 2022*
+
+Patrick Haluptzok, Matthew Bowers, Adam Tauman Kalai
+
 #### [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)	*20 Oct 2022*
 
 Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han
