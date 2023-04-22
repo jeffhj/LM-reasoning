@@ -64,6 +64,10 @@ Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang
 
 Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui
 
+#### [Logical Reasoning over Natural Language as Knowledge Representation: A Survey](https://arxiv.org/abs/2303.12023) *21 Mar 2023*
+
+Zonglin Yang, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria
+
 #### [Nature Language Reasoning, A Survey](https://arxiv.org/abs/2303.14725) *26 Mar 2023*
 
 Fei Yu, Hongbo Zhang, Benyou Wang
