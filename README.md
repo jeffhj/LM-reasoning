@@ -248,7 +248,7 @@ Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran
 
 #### [Reasoning with Language Model is Planning with World Model](https://arxiv.org/abs/2305.14992) *24 May 2023*
 
-Shibo Hao*, Yi Gu*, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu
+Shibo Hao, Yi Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu
 
 
 
