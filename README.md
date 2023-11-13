@@ -346,6 +346,10 @@ Olga Golovneva, Moya Chen, Spencer Poff, Martin Corredor, Luke Zettlemoyer, Mary
 
 Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun
 
+#### [Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic](https://arxiv.org/abs/2308.07336)	*11 Aug 2023*
+
+Terufumi Morishita, Gaku Morio, Atsuki Yamaguchi, Yasuhiro Sogawa
+
 
 
 ## Citation
